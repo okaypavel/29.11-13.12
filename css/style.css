@@ -1,0 +1,105 @@
+.main-fix{
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    background-color: #1a1a1a;
+    height: 62px;
+}
+.text-nav{
+    color: white;
+    padding-top: 10px;
+}
+.text-nav-active{
+    color: rgb(255, 217, 0);
+    padding-top: 10px;
+}
+.text-nav:hover{
+    padding-top: 10px;
+    color: rgb(255, 217, 0);
+}
+.text-nav-log{
+    color: white;
+    padding-top: 10px;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+body{
+    background-color: #333333;
+}
+.main-carousel{
+    height: 100vh;
+}
+.text{
+    color: white;
+    padding-top: 20px;
+    text-align: center;
+}
+.text-main{
+    color: white;
+    padding-top: 5px;
+}
+.text-h{
+    color: rgb(255, 217, 0);
+    text-align: center;
+    padding-top: 20px;
+}
+.contact{
+    height: 100px;
+    width: 100%;
+    color: rgba(255, 255, 255, 0.493);
+}
+.text-contact{
+    padding-left: 290px;
+}
+.video-main{
+    width: 500px;
+    height: 300px;
+    margin: 5px;
+}
+.border-main{
+    border-bottom: 2px solid #ffffff;
+    width: 100px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+.main-img-advice{
+    height: 100vh;
+}
+.text-advice-img{
+    background-color: rgba(255, 217, 0, 0.377);
+    position: absolute;
+    left: 0;
+    top: 89.3%;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+.padding-text{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.search-input{
+    height: 30px;
+}
+.search-i{
+    color: white;
+}
+.search-i:hover{
+    color: rgb(255, 217, 0);
+}
+.icon-contact{
+    color: rgba(255, 255, 255, 0.493);
+    text-align: center;
+}
+.icon-contact:hover{
+    color: rgb(255, 217, 0);
+}
+.truck-img{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.main-padding-h{
+    padding-top: 15px;
+}
